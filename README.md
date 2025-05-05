@@ -4,7 +4,7 @@
 Welcome to the **Kermanshah Islamic Azad University Computer Science Association (csaiauk)** GitHub organization! We are a community of students passionate about **computer science, software engineering, and innovation**.
 
 ## 📌 About Us
-KermanshahIACSA is a student-led association that encourages learning, open-source contributions, and technical collaboration. We work on various projects ranging from **artificial intelligence and web development** to **competitive programming and cybersecurity**.
+csaiauk is a student-led association that encourages learning, open-source contributions, and technical collaboration. We work on various projects ranging from **artificial intelligence and web development** to **competitive programming and cybersecurity**.
 
 ## 🌟 Our Mission
 - Promote open-source development 🤝  
