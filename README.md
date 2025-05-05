@@ -28,7 +28,7 @@ We focus on:
 Stay engaged and be part of our growing tech community:  
 - 📧 Email: [Your Association Email]  
 - 🌐 Website: [Your Website Link]  
-- 📢 Telegram: [https://t.me/csaiauk]  
+- 📢 Telegram: t.me/csaiauk  
 - 💼 LinkedIn: [Your LinkedIn Link]  
 
 Join us and let’s **build, learn, and innovate together**! 🚀  
