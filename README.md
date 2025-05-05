@@ -1,10 +1,10 @@
-# Kermanshah Islamic Azad University Computer Science Association (IACSA)
+# Kermanshah Islamic Azad University Computer Science Association (KermanshahIACSA)
 🚀 Innovate. Collaborate. Elevate.
 
 Welcome to the **Kermanshah Islamic Azad University Computer Science Association (KermanshahIACSA)** GitHub organization! We are a community of students passionate about **computer science, software engineering, and innovation**.
 
 ## 📌 About Us
-IACSA is a student-led association that encourages learning, open-source contributions, and technical collaboration. We work on various projects ranging from **artificial intelligence and web development** to **competitive programming and cybersecurity**.
+KermanshahIACSA is a student-led association that encourages learning, open-source contributions, and technical collaboration. We work on various projects ranging from **artificial intelligence and web development** to **competitive programming and cybersecurity**.
 
 ## 🌟 Our Mission
 - Promote open-source development 🤝  
